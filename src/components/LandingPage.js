@@ -73,8 +73,8 @@ class LandingPage extends React.Component {
           <p>AI</p>
           <Typed
             className="typed-text"
-            strings={['for meeting IRL', 'for meeting up with friends', 'for planning first dates', 'for making work coffees happen', 'for meeting IRL']}
-            typeSpeed={90}
+            strings={['for meeting IRL', 'for meeting up with friends', 'for planning first dates', 'for making work coffees happen']}
+            typeSpeed={120}
             loop
           />
         </div>
